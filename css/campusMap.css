@@ -1,7 +1,7 @@
 #section_1 {
     width: 100%;
     height: 100%;
-    background-color: rgb(206, 193, 137);
+    background-color: rgb(63, 63, 63);
     position: static;
 }
 
@@ -17,16 +17,29 @@
     background-color: rgb(82, 76, 54);
 }
 
-#section_main_imageMap {
-    width: 70%;
+
+/* #section_N_main {
+    width: 80%;
+    height: 590px;
     position: relative;
-    left: 15%;
+    left: 10%;
     top: 100px;
+    background-color: white;
+} */
+
+#section_main_imageMap {
+    width: 80%;
+    position: relative;
+    left: 10%;
+    top: 100px;
+    background-color: white;
 }
 
 #imageMap {
-    width: 100%;
-    border: 5px solid white;
+    margin: 0% 5%;
+    margin-bottom: 2%;
+    width: 90%;
+    height: 520px;
 }
 
 

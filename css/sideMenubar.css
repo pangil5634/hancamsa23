@@ -1,0 +1,25 @@
+#section_main_sideMenubar {
+    position: fixed;
+    right: 15px;
+    top: 300px;
+    z-index: 5;
+    width: 100px;
+    height: 90px;
+}
+
+#section_main_sideMenubar td {
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    background-color: white;
+    font-size: 120%;
+}
+
+#section_main_sideMenubar td:hover {
+    background-color: rgb(155, 150, 150);
+}
+
+#section_main_sideMenubar td a {
+    text-decoration: none;
+    color: black;
+}
