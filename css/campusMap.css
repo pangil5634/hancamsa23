@@ -1,0 +1,35 @@
+#section_1 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(206, 193, 137);
+    position: static;
+}
+
+#section_2 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(146, 137, 98);
+}
+
+#section_3 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(82, 76, 54);
+}
+
+#section_main_imageMap {
+    width: 70%;
+    position: relative;
+    left: 15%;
+    top: 100px;
+}
+
+#imageMap {
+    width: 100%;
+    border: 5px solid white;
+}
+
+
+/* #section_main_imageMap p {
+    text-align: center;
+} */
