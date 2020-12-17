@@ -16,3 +16,13 @@ function typing() {
         clearInterval(tyInt); //끝나면 반복종료 
     }
 }
+
+
+function check(page, building) {
+    var answer = confirm(building + "로 이동하시겠습니까?");
+    var click_id = document.get
+
+    if (answer) {
+        location.href = "/html/" + page;
+    }
+}
